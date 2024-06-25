@@ -1,5 +1,7 @@
 # Boost Labs Frontend Interview Starter
 
+We suggest cloning the repo, setting up the project, and running the app before the interview.
+
 ## Getting Started
 
 ```bash

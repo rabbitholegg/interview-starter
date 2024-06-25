@@ -1,6 +1,10 @@
+# Boost Labs Frontend Interview Starter
+
 ## Getting Started
 
-First, run the development server:
+```bash
+pnpm install
+```
 
 ```bash
 npm run dev
